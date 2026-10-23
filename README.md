@@ -1,153 +1,149 @@
-# Hi, I'm Ayus Pathak 👋
+# Hey, I'm Ayus Pathak 👋
 
-### AI/ML Engineer | Generative AI & RAG | Backend Engineering
+### AI/ML Engineer · GenAI & RAG · Backend Engineering
 
-I'm a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at VIT-AP. I build AI-powered applications and backend systems, with a focus on retrieval-augmented generation (RAG), NLP, semantic search, and practical product engineering.
+I build **AI-powered applications, retrieval systems, and backend services** that solve practical problems. My work spans LLM-powered applications, NLP, semantic search, API development, and product engineering.
 
-I enjoy working across the lifecycle of a product — understanding the problem, designing the system, implementing its core workflows, and debugging it when reality doesn't match expectations.
+I'm interested in the intersection of **applied AI, reliable software systems, and product thinking** — from understanding a problem to implementing and debugging a working solution.
 
-- 🔭 **Focus areas:** Applied AI, RAG systems, NLP, backend engineering, and intelligent automation
-- 🧠 **AI engineering:** Embeddings, vector search, document processing, contextual retrieval, and LLM APIs
-- ⚙️ **Backend:** Python, FastAPI, Node.js, Express.js, REST APIs, PostgreSQL
-- ☁️ **Infrastructure:** Docker, Microsoft Azure, deployment and debugging
-- 🎓 **Education:** B.Tech in Computer Science and Engineering, VIT-AP (2023–2027)
-- 🤝 **Open to:** AI/ML, GenAI, backend engineering, and data-focused opportunities
+- 🤖 Building with LLMs, RAG, embeddings, and semantic retrieval
+- ⚙️ Developing backend services and database-driven applications
+- 🧠 Exploring NLP, transformer models, and applied machine learning
+- 🚀 Co-founded Vectr, an education-focused mobile product
+- 🎓 B.Tech CSE (AI & ML) @ VIT-AP
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 What I Build
 
-### 1. AI Learning Companion
+- 🤖 **Generative AI Systems** — RAG pipelines, document-grounded Q&A, embeddings, and LLM integrations
+- 🔎 **Semantic Retrieval** — Vector search, chunking strategies, contextual retrieval, and timestamp-aware search
+- ⚙️ **Backend Engineering** — REST APIs, database-backed workflows, authentication, and application debugging
+- 🧪 **Applied ML & NLP** — Text classification, transformer-based models, model evaluation, and experimentation
+- 💡 **Product Engineering** — Turning user needs into features, working software, and measurable product outcomes
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### Backend & Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+### AI / Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+### AI Engineering
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-0066CC?style=flat)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-Embeddings-6A5ACD?style=flat)
+
+### Cloud & Developer Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🧠 AI Learning Companion
+
 **Conversational AI · Document-grounded Question Answering**
 
-An AI learning assistant designed to answer questions using information retrieved from educational documents.
+An AI learning assistant designed to answer questions using retrieved information from educational documents.
 
-**What I worked on**
-- Document ingestion and text processing.
-- Semantic chunking and embedding generation.
-- FAISS-based vector similarity search for retrieving relevant context.
-- LLM-powered question answering grounded in retrieved content.
-- Conversation memory and fallback handling for follow-up questions and queries outside the supplied documents.
+- Implemented document processing, semantic chunking, embedding generation, and vector retrieval.
+- Used FAISS to retrieve relevant context for LLM-generated answers.
+- Worked on conversation memory and fallback handling for follow-up questions.
 
-**Technologies:** Python, FastAPI, LangChain, FAISS, embeddings, Gemini API
+**Tech:** Python · FastAPI · LangChain · FAISS · Gemini API
 
-### 2. YouTube Study RAG Assistant
-**NLP · Semantic Retrieval · Timestamp-aware Question Answering**
+### ▶️ YouTube Study RAG Assistant
 
-A study assistant designed to answer questions using educational YouTube video transcripts, helping learners understand the material they are watching.
+**Video-grounded AI · Timestamp-aware Retrieval**
 
-**What I worked on**
-- Transcript extraction and preparation for retrieval.
-- Semantic chunking and embedding generation.
-- Vector indexing and similarity-based context retrieval with FAISS.
-- Timestamp-aware retrieval to identify relevant sections of a video.
-- API endpoints for serving context-grounded AI responses.
+A study assistant designed to answer questions using educational YouTube transcripts and relevant video context.
 
-**Technologies:** Python, FastAPI, LangChain, Sentence Transformers, FAISS, Gemini API
+- Built a transcript-processing and semantic retrieval pipeline.
+- Used embeddings and FAISS for similarity-based context retrieval.
+- Developed timestamp-aware retrieval workflows and API endpoints for question answering.
 
-### 3. Medical Abstract Classification
-**Deep Learning · Scientific NLP · Model Evaluation**
+**Tech:** Python · FastAPI · Sentence Transformers · LangChain · FAISS · Gemini API
 
-An NLP project exploring sentence classification in biomedical research abstracts using traditional machine learning and transformer-based approaches.
+### 🧬 Medical Abstract Classification
 
-**What I worked on**
-- Evaluated TF-IDF and Naive Bayes baselines alongside BiLSTM and SciBERT-based approaches.
-- Explored a hybrid SciBERT architecture for scientific text classification.
-- Evaluated model performance using test accuracy and weighted F1-score.
+**Scientific NLP · Deep Learning · Transformer Models**
 
-**Reported evaluation:** 82.83% test accuracy and 0.827 weighted F1-score.
+An NLP project evaluating machine learning and deep learning approaches for sentence classification in biomedical research abstracts.
 
-**Technologies:** Python, NLP, TF-IDF, Naive Bayes, BiLSTM, SciBERT, Scikit-learn
+- Compared TF-IDF and Naive Bayes baselines with BiLSTM and SciBERT-based approaches.
+- Evaluated model performance using accuracy and weighted F1-score.
+- Achieved **82.83% test accuracy and 0.827 weighted F1-score** with the reported hybrid SciBERT architecture.
 
-### 4. WhatsApp AI Automation Platform
-**Conversational AI · Customer Support · Backend Systems**
+**Tech:** Python · Scikit-learn · BiLSTM · SciBERT · NLP
 
-An AI customer-support platform project focused on combining conversational interfaces with knowledge-base retrieval and real-time workflows.
+### 📱 Vectr
 
-**Areas of implementation and design**
-- React and TypeScript frontend.
-- Node.js and Fastify backend architecture.
-- REST APIs and WebSocket-based real-time communication.
-- Knowledge-base processing, embeddings, and semantic retrieval workflows.
-- PostgreSQL, Prisma, and Redis for application data and state management.
+**Education Technology · Product Engineering**
 
-**Technologies:** React, TypeScript, Node.js, Fastify, PostgreSQL, Prisma, Redis, LLM APIs
+Co-founded an education-focused mobile application built around study planning, focus sessions, tasks, and student engagement.
+
+- Worked on React Native application development and backend workflows.
+- Developed APIs using Node.js, Express.js, PostgreSQL, and Prisma.
+- Worked with authentication, Docker-based deployment, Microsoft Azure, and production debugging.
+- Contributed to a product launch that recorded 4,000+ pre-registrations and 1,500 installs within 12 hours, according to project records.
+
+**Tech:** React Native · Node.js · Express.js · PostgreSQL · Prisma · Docker · Azure
 
 ---
 
-## 💼 Product Engineering Experience
+## 📈 Beyond Code
 
-### Vectr — Co-Founder & Lead Engineer
-*February 2025 – March 2026*
-
-Co-founded and worked on an education-focused mobile product designed to help JEE/NEET students manage study sessions, tasks, and learning workflows.
-
-- Worked on application architecture and React Native product development.
-- Developed backend APIs and database-backed workflows using Node.js, Express.js, PostgreSQL, and Prisma.
-- Worked with authentication, Docker-based services, Microsoft Azure, and Azure Blob Storage.
-- Participated in product planning, feature development, deployment, and production debugging.
-- Contributed to a launch that, according to my project records, achieved 4,000+ pre-registrations and 1,500 installs within 12 hours.
-
-This experience taught me to think beyond feature development: data integrity, deployment configuration, API contracts, failure diagnosis, and user experience all affect whether a product actually works.
+- 🏆 **NEC Rank 17** — National Entrepreneurship Challenge
+- 🤝 Former President, Entrepreneurship Club at VIT-AP
+- 💡 Interested in AI products, engineering trade-offs, and building technology around real user problems
 
 ---
 
-## 🛠️ Technical Skills
+## 🌱 Currently Exploring
 
-**Languages**
-- Python, Java, JavaScript, TypeScript, SQL
-
-**AI, ML & NLP**
-- Retrieval-Augmented Generation (RAG)
-- LangChain, LangGraph
-- FAISS and vector similarity search
-- Sentence Transformers and embeddings
-- Scikit-learn, Pandas, NumPy
-- Transformer-based NLP and LLM APIs
-
-**Backend & Data**
-- FastAPI, Node.js, Express.js
-- REST API design and WebSockets
-- PostgreSQL, Redis, Prisma ORM
-- Data processing and database-backed application workflows
-
-**Cloud & Engineering**
-- Docker, Microsoft Azure, Azure Blob Storage
-- Git and GitHub
-- Deployment troubleshooting and application debugging
-- Authentication and environment-based configuration
-
-**Core Computer Science**
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
+- Advanced RAG evaluation and retrieval quality
+- ML model evaluation and experimentation
+- Backend reliability, observability, and system design
+- AI-powered automation and cloud infrastructure
 
 ---
 
-## 🧩 How I Approach Engineering
+## 🤝 Connect With Me
 
-- **Understand before implementing:** Clarify requirements, constraints, and failure cases before choosing an approach.
-- **Build with evidence:** Use logs, reproducible test cases, and database state to diagnose problems rather than guessing.
-- **Respect existing data:** Consider migrations, backward compatibility, and data integrity before changing production schemas.
-- **Design for practical constraints:** Make architecture decisions based on actual requirements, expected load, complexity, and cost.
-- **Keep learning through implementation:** Turn AI/ML concepts and backend fundamentals into systems that can be tested and evaluated.
+[![GitHub](https://img.shields.io/badge/GitHub-AyusKumarPathak-181717?style=for-the-badge&logo=github)](https://github.com/AyusKumarPathak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayus%20Pathak-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayus-pathak/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayuskpathak@gmail.com)
 
 ---
 
-## 🏆 Beyond Code
-
-- President of the Entrepreneurship Club at VIT-AP.
-- National Entrepreneurship Challenge (NEC) — Rank 17.
-- Interested in building products at the intersection of AI, engineering, and real user needs.
-
----
-
-## 📫 Connect With Me
-
-- **GitHub:** [AyusKumarPathak](https://github.com/AyusKumarPathak)
-- **LinkedIn:** [Ayus Pathak](https://www.linkedin.com/in/ayus-pathak/)
-- **Email:** [ayuskpathak@gmail.com](mailto:ayuskpathak@gmail.com)
-
-*I believe good engineering is not just about making something work — it's about understanding why it works, how it fails, and what it takes to make it dependable.*
+### ⚡ Build thoughtfully. Debug systematically. Learn continuously.
